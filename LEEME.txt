@@ -1,0 +1,29 @@
+JUGUEMOS CON LOS CUENTOS — CARPETA MAESTRA
+
+ARCHIVO PRINCIPAL
+- index.html
+
+IMPORTANTE
+- No mover ni renombrar las carpetas "assets".
+- Para subirlo a una página web, subir TODA esta carpeta conservando la estructura.
+- El archivo que debe abrir el sitio es index.html.
+
+ESTRUCTURA
+assets/audio/      -> 10 narraciones MP3
+assets/video/      -> 10 videos MP4
+assets/images/     -> fondos, escenas y apoyos visuales
+assets/feedback/   -> imágenes de refuerzo positivo
+
+FUNCIONALIDAD CONSERVADA
+- 10 cuentos
+- 10 videos
+- 10 narraciones grabadas
+- 40 preguntas
+- audios de preguntas y respuestas
+- progreso y diamantes
+- celebración
+- Ver texto / Escuchar texto
+- refuerzos gráficos
+- diseño adaptable a computador y celular
+
+Esta es la versión recomendada para publicación web.
